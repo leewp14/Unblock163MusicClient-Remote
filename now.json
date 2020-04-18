@@ -40,9 +40,5 @@
       "src": "/.*",
       "dest": "/null.js"
     }
-  ],
-  "regions": [
-    "hnd1",
-    "sfo1"
   ]
 }
